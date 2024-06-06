@@ -2,7 +2,7 @@
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
-Hello world
+Three rings for the Elven Kings, under the sky.
 
 ## Commands
 
