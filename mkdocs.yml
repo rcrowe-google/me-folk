@@ -1,1 +1,5 @@
 site_name: Middle Earth Folk
+nav:
+  - Home: index.md
+  - About: about.md
+theme: readthedocs

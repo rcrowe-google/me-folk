@@ -1,19 +1,10 @@
-# Welcome to MkDocs
+# Welcome to Middle Earth Folk
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Three rings for the Elven Kings, under the sky.<br />
+Seven for the Dwarf Lords, in their halls of stone.
 
-Three rings for the Elven Kings, under the sky.
+## Of Elves
+Elves are from the West, and will return to the West at the end of the Third Age.
 
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## Of Men
+Men are mortal, and are thus sometimes greedy and suspect.  Approach with caution.
